@@ -24,7 +24,7 @@ Vous aurez besoin de connaissances de base de HTML/CSS/JavaScript
 ## Frameworks (sans PHP, focus sur JS)
 
 * LIVRE https://github.com/nazimboudeffa/vue-cookbook
-* LIVRE https://github.com/nazimboudeffa/react-cookbook (si vous êtes super motivés)
+* LIVRE https://github.com/nazimboudeffa/react-cookbook (si vous êtes super motivés, mais moi non)
 
 ## Authentification
 
