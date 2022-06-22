@@ -9,9 +9,17 @@ I have divided this book in four parts
 * MongoDB (Restful API) 
 * VUE (instead of React or Angular)
 
-You need basic knowledge about HTML/CSS/JavaScript
+Ok let's move to french,
+
+Vous aurez besoin de connaissances de base de HTML/CSS/JavaScript
 
 # Références
+
+## HTML/CSS/JavaScript
+
+* https://github.com/nazimboudeffa/html-cookbook
+* https://github.com/nazimboudeffa/css-cookbook
+* https://github.com/nazimboudeffa/js-cookbook
 
 ## Authentification
 
