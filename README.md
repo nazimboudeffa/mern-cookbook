@@ -9,8 +9,9 @@ I have divided this book in four parts
 * Restful API with MongoDB
 * VUE
 
-Références
+# Références
 
-https://github.com/nazimboudeffa/mevn-api-auth
+## Authentification
 
-https://github.com/nazimboudeffa/mevn-vue3-auth
+* https://github.com/nazimboudeffa/mevn-api-auth
+* https://github.com/nazimboudeffa/mevn-vue3-auth
