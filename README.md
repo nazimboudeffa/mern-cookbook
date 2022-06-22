@@ -21,6 +21,11 @@ Vous aurez besoin de connaissances de base de HTML/CSS/JavaScript
 * LIVRE https://github.com/nazimboudeffa/css-cookbook
 * LIVRE https://github.com/nazimboudeffa/js-cookbook
 
+## Frameworks (sans PHP, focus sur JS)
+
+* LIVRE https://github.com/nazimboudeffa/vue-cookbook
+* LIVRE https://github.com/nazimboudeffa/react-cookbook (si vous êtes super motivés)
+
 ## Authentification
 
 * CODE https://github.com/nazimboudeffa/mevn-api-auth
