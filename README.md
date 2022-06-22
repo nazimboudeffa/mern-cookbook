@@ -13,6 +13,8 @@ Ok let's move to french, but keep in mind that you'll need to negociate in engli
 
 Vous aurez besoin de connaissances de base en HTML/CSS/JavaScript qui une fois maitrisé (y en a qui ça prend 10 ans) vous pourrez passer à un framework JavaScript comme VUE et qui est celui qui nous intéresse pour des missions sur fiverr par exemple
 
+On cherchera aussi dans ce livre à comprendre si il est necessaire ou pas de se former en Symfony mais le focus est mit sur JavaScript et particulièrement sur VUE pas React ou Anglular
+
 # MES Références (vous pouvez taper [COOKBOOK](https://github.com/nazimboudeffa?tab=repositories&q=cookbook))
 
 ## HTML/CSS/JavaScript
