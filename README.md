@@ -9,7 +9,7 @@ I have divided this book in four parts
 * MongoDB (Restful API) 
 * VUE (instead of React or Angular)
 
-Ok let's move to french,
+Ok let's move to french, but keep in mind that you'll need to negociate in english
 
 Vous aurez besoin de connaissances de base de HTML/CSS/JavaScript
 
