@@ -4,10 +4,10 @@ In order to join Fiverr and propose MEVN dev services I wanted to write this boo
 
 I have divided this book in four parts
 
-* NodeJS
-* ExpressJS
-* Restful API with MongoDB
-* VUE
+* NodeJS (we have some experience with JS)
+* ExpressJS (there are some repos working with it)
+* MongoDB (Restful API) 
+* VUE (instead of React or Angular)
 
 # Références
 
