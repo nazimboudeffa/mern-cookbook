@@ -9,6 +9,8 @@ I have divided this book in four parts
 * MongoDB (Restful API) 
 * VUE (instead of React or Angular)
 
+You need basic knowledge about HTML/CSS/JavaScript
+
 # Références
 
 ## Authentification
