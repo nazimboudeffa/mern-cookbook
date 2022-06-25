@@ -7,7 +7,7 @@ I have divided this book in four parts
 * NodeJS (we have some experience with JS)
 * ExpressJS (there are some repos working with it)
 * MongoDB (Restful API) 
-* VUE (instead of React or Angular)
+* VUE (instead of React or Angular) https://github.com/nazimboudeffa/vue-cookbook
 
 Ok let's move to french, but keep in mind that you'll need to negociate in english
 
