@@ -2,7 +2,7 @@
 
 In order to join Fiverr and propose MEVN dev services I wanted to write this book
 
-I have divided this book in four parts
+In this book we're going to review four technologies
 
 * NodeJS (we have some experience with JS)
 * ExpressJS (there are some repos working with it)
