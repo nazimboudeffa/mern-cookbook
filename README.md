@@ -15,7 +15,7 @@ Vous aurez besoin de connaissances de base en HTML/CSS/JavaScript qui une fois m
 
 On cherchera aussi dans ce livre à comprendre si il est necessaire ou pas de se former en Symfony mais le focus est mit sur JavaScript et particulièrement sur VUE pas React ou Anglular
 
-* Introduction : Les technologies MEVN
+* Introduction : C'est quoi MEVN ?
 * [Chapitre 1 : La grosse tchektchouka](https://github.com/nazimboudeffa/mevn-cookbook/blob/main/ch1.md)
 
 # MES Références (vous pouvez taper [COOKBOOK](https://github.com/nazimboudeffa?tab=repositories&q=cookbook))
