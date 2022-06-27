@@ -31,7 +31,8 @@ On cherchera aussi dans ce livre à comprendre si il est necessaire ou pas de se
 * LIVRE https://github.com/nazimboudeffa/vue-cookbook (focus)
 * LIVRE https://github.com/nazimboudeffa/react-cookbook (si vous êtes super motivés, mais moi non)
 
-## Authentification
+## CODE
 
-* CODE https://github.com/nazimboudeffa/mevn-api-auth
+* CODE https://github.com/nazimboudeffa/mevn-rest-api-auth
+* CODE https://github.com/nazimboudeffa/mevn-rest-api-connect
 * CODE https://github.com/nazimboudeffa/mevn-vue3-auth
