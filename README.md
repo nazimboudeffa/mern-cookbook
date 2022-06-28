@@ -39,4 +39,5 @@ On cherchera aussi dans ce livre à comprendre si il est necessaire ou pas de se
 
 ## VIDEOS
 
-* REST API https://www.youtube.com/watch?v=vjf774RKrLc
+* REST API AUTH https://www.youtube.com/watch?v=F9cvPtMI7JI
+* REST API POSTS https://www.youtube.com/watch?v=vjf774RKrLc
