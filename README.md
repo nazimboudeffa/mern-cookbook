@@ -36,3 +36,7 @@ On cherchera aussi dans ce livre à comprendre si il est necessaire ou pas de se
 * CODE https://github.com/nazimboudeffa/mevn-rest-api-auth
 * CODE https://github.com/nazimboudeffa/mevn-rest-api-connect
 * CODE https://github.com/nazimboudeffa/mevn-vue3-auth
+
+## VIDEOS
+
+* REST API https://www.youtube.com/watch?v=vjf774RKrLc
