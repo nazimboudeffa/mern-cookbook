@@ -42,3 +42,4 @@ On cherchera aussi dans ce livre à comprendre si il est necessaire ou pas de se
 * REST API AUTH https://www.youtube.com/watch?v=F9cvPtMI7JI
 * same https://www.youtube.com/watch?v=2jqok-WgelI
 * REST API POSTS https://www.youtube.com/watch?v=vjf774RKrLc
+* Auth VUE https://www.youtube.com/watch?v=uqpM7WVTKI4
