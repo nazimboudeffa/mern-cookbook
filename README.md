@@ -33,7 +33,13 @@ On cherchera aussi dans ce livre à comprendre si il est necessaire ou pas de se
 
 ## CODE
 
-* CODE https://github.com/nazimboudeffa/mevn-rest-api-auth
+Les deux repos fonctionnent ensemble, frontend et backend
+
+* CODE https://github.com/nazimboudeffa/nem-rest-api-auth-simple
+* CODE https://github.com/nazimboudeffa/auth-vue3
+
+Voici d'autres templates pour tests
+
 * CODE https://github.com/nazimboudeffa/mevn-rest-api-connect
 * CODE https://github.com/nazimboudeffa/mevn-vue3-auth
 
