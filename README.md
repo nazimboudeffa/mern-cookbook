@@ -1,13 +1,13 @@
-# MEVN CookBook for Fiverr
+# MERN CookBook for Fiverr
 
-In order to join Fiverr and propose MEVN dev services I wanted to write this book
+In order to join Fiverr and propose MERN dev services I wanted to write this book
 
 In this book we're going to review four technologies
 
 * NodeJS (we have some experience with JS)
 * ExpressJS (there are some repos working with it)
 * MongoDB (Restful API) 
-* VUE (instead of React or Angular) atm read https://github.com/nazimboudeffa/vue-cookbook
+* React atm read https://github.com/nazimboudeffa/react-cookbook
 
 Ok let's move to french, but keep in mind that you'll need to negociate in english
 
