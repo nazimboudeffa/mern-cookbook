@@ -49,3 +49,4 @@ Voici d'autres templates pour tests
 * same https://www.youtube.com/watch?v=2jqok-WgelI
 * REST API POSTS https://www.youtube.com/watch?v=vjf774RKrLc
 * Auth VUE https://www.youtube.com/watch?v=uqpM7WVTKI4
+* API MONGO https://www.youtube.com/watch?v=enopDSs3DRw
